@@ -1,15 +1,15 @@
-# print 5 4 3 2 1
-loop=5
-while loop>0:
-    print loop
-    loop=loop-1
-print ''
-
 #print 1 2 3 4 5
 loop=1
 while loop<6:
     print loop
     loop=loop+1
+print ''
+
+# print 5 4 3 2 1
+loop=5
+while loop>0:
+    print loop
+    loop=loop-1
 print ''
 
 # print word word word word word
