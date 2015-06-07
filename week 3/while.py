@@ -12,14 +12,16 @@ while loop>0:
     loop=loop-1
 print ''
 
-# print word word word word word
+# print word that  user input 5 times use "while"
 word=raw_input('word: ')
 loop=5
 while loop>0:
     print word
     loop=loop-1
 
-print ''
+
+# print word as many as user want use "while"
+print '\n'
 word=raw_input('word: ')
 loop=input("how many times? ")
 while loop>0:

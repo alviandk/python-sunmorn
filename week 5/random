@@ -1,0 +1,11 @@
+from random import randint
+comp_rand=randint(1,100)
+user=0
+while comp_rand != user:
+    if user <comp_rand:
+        print "input higher number"
+    else:
+        print "input lower number"        
+    user=input("guess a number between 1-100: ")
+    
+print 'yeay you cool'
