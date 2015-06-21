@@ -7,4 +7,4 @@ init
   <li><a href="https://github.com/">Acid</a></li>
   <li><a href="https://github.com/DaffaRabin">Daffa</a></li>
   <li><a href="https://github.com/Hkalipaksi">Haikal</a></li>
-  <li><a href="https://github.com/">Rasya</a></li>
+  <li><a href="https://github.com/MannOfWar">Rasya</a></li>
