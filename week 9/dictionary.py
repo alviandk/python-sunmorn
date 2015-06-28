@@ -5,7 +5,8 @@ menu_dictionary={}
 menu_dictionary['nasi']=1000
 print menu_dictionary
 
-#initialize dictionary with value dictionary _name={key:value,key:value}
+#initialize dictionary with items:
+#   dictionary _name={key:value,key:value}
 my_dictionary={'merah':'red','blue':'biru'}
 print my_dictionary
 
