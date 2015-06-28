@@ -9,13 +9,9 @@ def program():
     
     if choice==1:
         out()
-        any_key()
-        program()
     elif choice==2:
         inp()
-        any_key()
-        program()
-    
+        
 
 def out():
     print "\n\n Our Food Menu"
@@ -23,15 +19,19 @@ def out():
     for menu in list_menu:
         idx=idx+1
         print "{}.{}".format(idx,menu)
+    any_key()
+    program()
+    
 
 def inp():
     add=raw_input("add a food name: ")
     list_menu.append(add)
+    any_key()
+    program()
+    
 
 def any_key():
     key=raw_input("\npress any key...")
-    
-    
 
 program()
 
