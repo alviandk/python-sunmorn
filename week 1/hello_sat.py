@@ -28,7 +28,7 @@ print var2
 print var2*2
 
 #input number pada variable angka
-angka=input("masukkan angka.. ")
+angka=input("masukkan angka: ")
 
 #input string pada variable nama
 nama=raw_input('ketikkan nama anda: ')

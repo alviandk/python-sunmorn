@@ -7,7 +7,7 @@ print menu_dictionary
 
 #initialize dictionary with items:
 #   dictionary _name={key:value,key:value}
-my_dictionary={'merah':'red','blue':'biru'}
+my_dictionary={'merah':'red','biru':'blue'}
 print my_dictionary
 
 print "Add new item to dictionary"
