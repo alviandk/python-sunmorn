@@ -8,3 +8,6 @@ init
   <li><a href="https://github.com/DaffaRabin">Daffa</a></li>
   <li><a href="https://github.com/Hkalipaksi">Haikal</a></li>
   <li><a href="https://github.com/MannOfWar">Rasya</a></li>
+
+
+<p>Teacher of class: <a href="https://github.com/alviandk">Alvian</a><p>
