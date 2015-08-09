@@ -17,10 +17,15 @@ class Cat(Living_Things):
     def climbing_a_roof(self):
         print "i am climbing roof"
 
+#task
+class Tree(Living_Things):
+    def have_clorofil
+        
 #create instance of Human class   
 jo=Human("jo")
 catro=Cat("catro")
-          
+
+#call function of instance class          
 jo.move()
 catro.move()
 

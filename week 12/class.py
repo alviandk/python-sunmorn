@@ -11,8 +11,10 @@ class Living_Things:
 
 #create instance of Living _Things class   
 cathy=Living_Things("cathy")
+#access my_name function in Living_Thing class
 cathy.my_name()
 
 jon=Living_Things("jon")
 jon.my_name()
+
 
